@@ -1,5 +1,0 @@
-/* 
-.split()
-.every()
-.includes
-*/
